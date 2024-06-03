@@ -8,11 +8,12 @@ Download the two folders in the drive as it is and keep the 2 files along with t
 
 ## To simply run this model:
 1. Clone this repository
-2. Run the [Final_GUI.py](https://github.com/kartick1402/Determining-Gender-using-Voice/blob/main/Final_GUI.py) file
-3. Choose the option to either upload a voice or record a voice
-4. Once tapped on Recording, start speaking as soon as the message prompts and avoid taking breaks while speaking, as small silence for a while terminates the audio recording
-5. If tapped on Upload and chosen a file, wait patiently because the code might hang or lag a bit due to High Complexities. Please wait patiently for it to execute
-6. View Results
+2. Install all the neccessary modules mentioned in the code used.
+3. Run the [Final_GUI.py](https://github.com/kartick1402/Determining-Gender-using-Voice/blob/main/Final_GUI.py) file
+4. Choose the option to either upload a voice or record a voice
+5. Once tapped on Recording, start speaking as soon as the message prompts and avoid taking breaks while speaking, as small silence for a while terminates the audio recording
+6. If tapped on Upload and chosen a file, wait patiently because the code might hang or lag a bit due to High Complexities. Please wait patiently for it to execute
+7. View Results
 
 ##  A video is attached below showcasing the proper usage of the model
 
