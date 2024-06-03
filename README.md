@@ -19,7 +19,7 @@ Download the two folders in the drive as it is and keep the 2 files along with t
 
 ## Directory Chart for files storage
 
-The files should be stored exactly same to the one shown in the photos below:
+The files should be stored exactly in same manner to the one shown in the photos below:
 
 ![Directory_Tree_1](https://github.com/kartick1402/Determining-Gender-using-Voice/assets/104575906/efad6a41-2f4c-47ac-8d3d-27588fc5e4c7)
 ![Directory_Tree_2](https://github.com/kartick1402/Determining-Gender-using-Voice/assets/104575906/23aca042-930e-48a3-9189-b2423a0a23db)
