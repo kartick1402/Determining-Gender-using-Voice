@@ -16,6 +16,8 @@ Download the two folders in the drive as it is and keep the 2 files along with t
 
 ##  A video is attached below showcasing the proper usage of the model
 
+### [LINK](https://drive.google.com/drive/folders/1pUdDLV2AA890tR_k79G3qzrDQXHpgilS?usp=drive_link)
+
 
 ## Directory Chart for files storage
 
